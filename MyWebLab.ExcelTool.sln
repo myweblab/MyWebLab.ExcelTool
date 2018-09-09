@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27703.2042
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyWebLab.ExcelTool", "MyWebLab.ExcelTool\MyWebLab.ExcelTool.csproj", "{1836EE3C-A252-4369-A83E-21023E6F514C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyWebLab.ExcelTool.Tests", "MyWebLab.ExcelTool.Tests\MyWebLab.ExcelTool.Tests.csproj", "{DB62C088-3FD8-4E7C-AF69-A0FC41843F1F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{1836EE3C-A252-4369-A83E-21023E6F514C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1836EE3C-A252-4369-A83E-21023E6F514C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1836EE3C-A252-4369-A83E-21023E6F514C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB62C088-3FD8-4E7C-AF69-A0FC41843F1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB62C088-3FD8-4E7C-AF69-A0FC41843F1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB62C088-3FD8-4E7C-AF69-A0FC41843F1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB62C088-3FD8-4E7C-AF69-A0FC41843F1F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
